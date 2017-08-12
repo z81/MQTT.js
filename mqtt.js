@@ -1,6 +1,3 @@
-#!/usr/bin/env node
-'use strict'
-
 /*
  * Copyright (c) 2015-2015 MQTT.js contributors.
  * Copyright (c) 2011-2014 Adam Rudd.
